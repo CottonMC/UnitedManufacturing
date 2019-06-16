@@ -1,8 +1,9 @@
 {
 	"parent": "block/orientable",
 	"textures": {
-		"top":   "united-manufacturing:block/machine/top",
-		"front": "united-manufacturing:block/machine/generator",
-		"side":  "united-manufacturing:block/machine/side"
+		"top":   "united-manufacturing:block/machine/iron_plane",
+		"front": "united-manufacturing:block/machine/coal_generator_off",
+		"side":  "united-manufacturing:block/machine/coal_generator_side",
+		"bottom": "united-manufacturing:block/machine/copper_plane"
 	}
 }
